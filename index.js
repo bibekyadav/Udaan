@@ -12,13 +12,6 @@ const mydata=[
     {vehicle_code_1:"sedan",crash_date: "2021/09/05"},
     {vehicle_code_1:"sedan",crash_date: "2021/09/01"},
 ];
-
-/*var user_date;
-function userinput(){
-    user_date=document.getElementById('userinput').value;
-    console.log(user_date);
-}
-console.log(user_date);*/
 var variable;
 function wawa() {
     variable = document.getElementById('input_id').value;
@@ -44,11 +37,6 @@ function wawa() {
 
 }
 
-
-
-
-//const elements= document.querySelectorAll('.box');
-//console.log(elements);
 
 
 
